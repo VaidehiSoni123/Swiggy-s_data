@@ -1,0 +1,16 @@
+Python: The script is written in Python, so you need to have Python installed on your system. You can download Python from the official website: https://www.python.org/downloads/. The script is compatible with both Python 2 and Python 3, but it's recommended to use Python 3 as Python 2 has reached its end-of-life.
+
+Requests Library: The script uses the requests library to make HTTP requests. You can install it using pip, a package manager for Python, by running the following command in your terminal or command prompt:
+
+pip install requests
+
+
+Pandas Library: The script uses the pandas library to work with DataFrames. You can install it using pip by running the following command:
+
+
+pip install pandas
+
+
+Internet Connection: The script fetches data from Swiggy's API, so you need an active internet connection to run it.
+
+Once you have Python installed along with the required libraries, you can run the script by executing it from the command line or terminal with the appropriate arguments, as explained in the script's usage instructions.
