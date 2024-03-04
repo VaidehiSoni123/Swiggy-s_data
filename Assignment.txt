@@ -4,12 +4,9 @@ Requests Library: The script uses the requests library to make HTTP requests. Yo
 
 pip install requests
 
-
 Pandas Library: The script uses the pandas library to work with DataFrames. You can install it using pip by running the following command:
 
-
 pip install pandas
-
 
 Internet Connection: The script fetches data from Swiggy's API, so you need an active internet connection to run it.
 
